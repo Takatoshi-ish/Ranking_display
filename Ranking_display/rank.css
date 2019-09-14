@@ -1,0 +1,16 @@
+table{
+  border: solid 2px #000000;
+}
+
+tr{
+ border: solid 2px #000000;
+}
+
+th{
+ border: solid 2px #000000;
+}
+
+td{
+ border: solid 2px #000000;
+ text-align: right;
+}
